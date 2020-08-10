@@ -14,7 +14,7 @@ __Proffy__ é um projeto desenvolvido com base no dia nacional do profissional d
 </br>
 </br>
 
-![Capa](https://user-images.githubusercontent.com/64803412/83979106-52982780-a8e2-11ea-92cd-deb4b22b8542.png)
+![Capa](https://raw.githubusercontent.com/matheusctx/nlw-02/master/Capa.png)
 
 ## Tecnologias utilizadas
 - ![Expo](https://img.shields.io/badge/-Expo-blue.svg?style=flat-square&logo=Expo&color=000020&logoColor=fff)
