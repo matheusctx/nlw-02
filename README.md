@@ -1,4 +1,4 @@
-<p align="center"><img src="https://lander.rocketseat.dev/uploads/nextlevelweek_18baaf82af.svg"/></p>
+<p align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fleoronne%2Fproffy&psig=AOvVaw2kzEM1NqUF8MxAW33xjAzK&ust=1597111384208000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJi789nFj-sCFQAAAAAdAAAAABAP"/></p>
  
  ## Guia de navegação
  
@@ -27,4 +27,4 @@ __Proffy__ é um projeto desenvolvido com base no dia nacional do profissional d
 - ![SQLite](https://img.shields.io/badge/-SQLite-blue.svg?style=flat-square&logo=SQLite&color=003B57&logoColor=fff)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-blue.svg?style=flat-square&logo=TypeScript&color=007ACC&logoColor=fff)
 
-###### Projeto desenvolvido no Next Level Week #01 da [RocketSeat](https://rocketseat.com.br).<br/> By: Matheus Teixeira
+###### Projeto desenvolvido no Next Level Week #02 da [RocketSeat](https://rocketseat.com.br).<br/> By: Matheus Teixeira
