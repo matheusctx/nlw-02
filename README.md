@@ -1,5 +1,3 @@
-<p align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fleoronne%2Fproffy&psig=AOvVaw2kzEM1NqUF8MxAW33xjAzK&ust=1597111384208000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJi789nFj-sCFQAAAAAdAAAAABAP"/></p>
- 
  ## Guia de navegação
  
  - [O que é o Next Level Week?](#o-que-é-o-next-level-week)
